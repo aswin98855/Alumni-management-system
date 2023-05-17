@@ -19,9 +19,9 @@ Our Project website typically includes features such as alumni list, event calen
 
 ![image10](https://github.com/aswin98855/Alumni-management-system/assets/116991167/4066a7a5-8f2a-478a-a749-feaeefcbe3f6)
 
-![image11](https://github.com/aswin98855/Alumni-management-system/assets/116991167/3ba3550c-49c3-4caf-8f3c-94cfb2347338)
+![image21](https://github.com/aswin98855/Alumni-management-system/assets/116991167/3cd70f2e-87c0-4796-bef5-7288d0231c11)
 
-![image12](https://github.com/aswin98855/Alumni-management-system/assets/116991167/852c2c25-8677-43af-930f-7fe7f72db053)
+![image22](https://github.com/aswin98855/Alumni-management-system/assets/116991167/2ceee78b-3814-46fe-ba02-944d42d7e927)
 
 ![image13](https://github.com/aswin98855/Alumni-management-system/assets/116991167/1ee7794c-1e43-4923-b380-f2c61269718f)
 
@@ -38,10 +38,6 @@ Our Project website typically includes features such as alumni list, event calen
 ![image19](https://github.com/aswin98855/Alumni-management-system/assets/116991167/df609d32-3139-4563-9aee-e5bb050ad32b)
 
 ![image20](https://github.com/aswin98855/Alumni-management-system/assets/116991167/d31deb52-ade1-4ac3-8d28-2236987d0bb9)
-
-![image21](https://github.com/aswin98855/Alumni-management-system/assets/116991167/3cd70f2e-87c0-4796-bef5-7288d0231c11)
-
-![image22](https://github.com/aswin98855/Alumni-management-system/assets/116991167/2ceee78b-3814-46fe-ba02-944d42d7e927)
 
 ![image23](https://github.com/aswin98855/Alumni-management-system/assets/116991167/f14d152d-5417-4319-872c-e10ba2f402bd)
 
