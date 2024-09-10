@@ -14,7 +14,7 @@ install the packages needful to us as per package.json file...
 
 Then create PORT and MONGO_URI Variable and specify Value. That's it. You are ready to go. To execute this project just type and Start the server
 
-**node server.js**
+**node app.js**
 
 
 
